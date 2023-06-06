@@ -249,14 +249,15 @@ Repository
 ## ✔️ 프로젝트 산출물
 - [기능 명세서](https://chipped-cart-851.notion.site/a96e0e004e4c4f39bab65fa821f4825f?v=f77e4329cc5e4b4fbb3a73894ba13c8c)
 - [API 명세서](https://chipped-cart-851.notion.site/838d5959ec264671ac3dc8410c0983fa?v=56e9cb334ec14ee4a3634693dba9cced)
-- [와이어 프레임](docs/img/wireframe.png)
-- [ER-Diagram](docs/img/erd.png)
+- ![와이어 프레임](docs/img/wireframe.png)
+- ![ER-Diagram](docs/img/erd.png)
 
 ## ✔️ 프로젝트 결과물
-- [포팅 메뉴얼](https://lab.ssafy.com/s08-ai-image-sub2/S08P22A502/-/blob/main/exec/%ED%8F%AC%ED%8C%85%EB%A7%A4%EB%89%B4%EC%96%BC.md)
+- [포팅 메뉴얼](exec/포팅매뉴얼.md)
 - [중간 발표 자료](docs/서울_5반_A502_중간발표자료.pptx)
 - [최종 발표 자료](docs/서울_5반_A502_최종발표자료.pptx)
 - [UCC 영상](docs/특화PJT_서울_5반_A502_UCC경진대회.mp4)
+- 🔗[시연 영상 유튜브링크](https://youtu.be/Vk-q15HN-wI)
 
 ## 🎲 Next Novel 서비스 화면
 ### 랜딩
